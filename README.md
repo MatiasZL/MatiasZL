@@ -1,5 +1,5 @@
 ![haeder](https://github.com/MatiasZL/MatiasZL/assets/103453931/4fd99910-b0e5-495f-bb03-afdc99a90e26)
-<h1 align="center"><b> Mucho gusto en conocerte </b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRlaXBzcHlwbmwxMzJ1NmNkY2lpMWVtbWl6ODlma3VldnBmNnkwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GWa5ohAAeJY6VBf3UX/giphy.gif" width="35"></1>
+<h3 align="center"><b> Mucho gusto en conocerte </b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRlaXBzcHlwbmwxMzJ1NmNkY2lpMWVtbWl6ODlma3VldnBmNnkwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GWa5ohAAeJY6VBf3UX/giphy.gif" width="35"></h3>
 
 <br>
 
@@ -18,10 +18,7 @@
 - 🧑🏻‍💻 Actualmente estoy trabajando para Dalt applications como desarrollador Fullstack.
 - 💡 Me gusta explorar nuevas tecnologías y desarrollar aplicaciones moviles
 
-<br><br>
-
-
-
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Habilidades</b>
 
@@ -40,7 +37,7 @@
 <p>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23D00000.svg?logo=Flutter&logoColor=white"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23013243.svg?logo=Angular&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    <!-- <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a> -->
 
 </p>
 
@@ -49,7 +46,7 @@
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%FF6C37.svg?logo=mysql&logoColor=white"></a>
+   <!-- <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%FF6C37.svg?logo=mysql&logoColor=white"></a> -->
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
   <a href="#"><img alt="Tanzu" src ="https://img.shields.io/badge/Tanzu-%23316192.svg?logo=cloud&logoColor=white"></a>
 </p>
@@ -73,10 +70,10 @@
 </p>
 
 
+<br>
 
 
-
-<h1>📊 Datos estadisticos  </h3>
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR6dGEzZWs4dzQxZDlucXBkZ2FyN21tMnRxa3RlODl3Z3djNG13ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FkdU6Or6txxpPdOsL8/giphy.gif" width ="25"><b>  Datos estadisticos</b>
 
 <div style="display: flex; justify-content: space-between;"> 
   <p style="width: 30%;"><img align="center"
