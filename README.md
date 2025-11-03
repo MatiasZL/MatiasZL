@@ -1,6 +1,3 @@
-![haeder](https://github.com/MatiasZL/MatiasZL/assets/103453931/4fd99910-b0e5-495f-bb03-afdc99a90e26)
-<h3 align="center"><b> Mucho gusto en conocerte </b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRlaXBzcHlwbmwxMzJ1NmNkY2lpMWVtbWl6ODlma3VldnBmNnkwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GWa5ohAAeJY6VBf3UX/giphy.gif" width="35"></h3>
-
 <br>
 
 
