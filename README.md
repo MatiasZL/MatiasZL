@@ -12,7 +12,7 @@
 
 - 💻 Me considero un apasionado desarrollador Front-end con experiencia en constante crecimiento en el desarrollo backend.
 - 🕹️/🦾 En mi tiempo libre, me dedico a jugar videoguejos o a realizar ejercicio como pasatiempos/actividades secundarias.
-- 🧑🏻‍💻 Actualmente estoy trabajando para Dalt applications como desarrollador Fullstack.
+- 🧑🏻‍💻 Actualmente estoy trabajando para xxxxxx como desarrollador Front-end.
 - 💡 Me gusta explorar nuevas tecnologías y desarrollar aplicaciones moviles
 
 <br>
